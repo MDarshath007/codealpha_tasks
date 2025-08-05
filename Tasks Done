@@ -1,8 +1,0 @@
-> Installed Jenkins on windows
-> Created new Node and named as "remote-node"
-> Created new Job and named as "CodeAlpha"
-> Job running in the node "remote-agent"
-
-Sources i used to learn:
-> Youtube
-> ChatGPT
