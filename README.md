@@ -11,11 +11,18 @@
 # Console Output of the Job in "remote-agent"
 <img width="956" height="532" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/038d1808-734e-42bb-a9b7-9d347a815712" />
 
+# Tools used
+<br>->Jenkins<br>
+<br>->Java<br>
+
+# What i did?
+<br>->I installed Jenkins on my Windows PC<br>
+<br>->I Created an agent node and connected it to the Jenkins controller <br>
+<br>->And created a freestyle job and assigned it to the agent node<br>
+<br>->Lastly i run the job by the agent node<br>
+
 # What i have learned:
 <br> -> I learn what is jenkins and how to install it <br>
 <br> -> I can create freestytle jobs run them with simple programs <br>
 <br> -> I learned to create Nodes and Distribution of Jobs to the Nodes <br>
 
-# Tools used
-<br>->Jenkins<br>
-<br>->Java<br>
