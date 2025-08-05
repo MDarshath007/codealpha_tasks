@@ -22,7 +22,7 @@
 <br>->Lastly i run the job by the agent node<br>
 
 # What i have learned:
-<br> -> I learn what is jenkins and how to install it <br>
+<br> -> I learned what is jenkins and how to install it <br>
 <br> -> I can create freestytle jobs run them with simple programs <br>
 <br> -> I learned to create Nodes and Distribution of Jobs to the Nodes <br>
 
