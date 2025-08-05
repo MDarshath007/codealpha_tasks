@@ -1,7 +1,7 @@
 # CodeAlpha_Project
 <br><br>
 # Task 2 -> Jenkins Remoting Project 
-<br><br>
+
 # Tools used
 <br>->Jenkins<br>
 <br>->Java<br>
