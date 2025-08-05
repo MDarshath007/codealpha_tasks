@@ -10,7 +10,7 @@
 <img width="956" height="532" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/038d1808-734e-42bb-a9b7-9d347a815712" />
 
 # What i have learned:
-> I learn what is jenkins and how to install it
-> I can create freestytle jobs run them with simple programs
-> I learned to create Nodes and Distribution of Jobs to the Nodes
+<br> I learn what is jenkins and how to install it <br>
+<br> I can create freestytle jobs run them with simple programs <br>
+<br> I learned to create Nodes and Distribution of Jobs to the Nodes <br>
 
