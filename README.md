@@ -25,4 +25,9 @@
 <br> -> I learned what is jenkins and how to install it <br>
 <br> -> I can create freestytle jobs run them with simple programs <br>
 <br> -> I learned to create Nodes and Distribution of Jobs to the Nodes <br>
+# Task 4 -> Jenkins Remoting Project 
+<img width="1360" height="768" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/4d10039b-7cdc-4018-ac57-26646e8962bf" />
+<img width="1360" height="768" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/59da4154-b7ee-44f7-9c20-a34fe759aea4" />
+<img width="1360" height="768" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/386c4ddd-2b76-484c-9436-58c5e9538087" />
+<img width="1360" height="768" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/7e7ab7b8-7c06-4115-8e52-344205f74db7" />
 
