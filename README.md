@@ -47,7 +47,7 @@
 <br>-requirements.txt<br>
 <br>-Dockerfile<br>
 <br>->Running the Docker Container using the code "docker run -p 5000:5000"<br>
-<br>->And Finally!! by typing the address "http://localhost:5000", i got the output that shows the sample Website<br>
+<br>->And Finally!! by typing the address "http://localhost:5000" in Browser, I got the output that shows the sample Website<br>
 
 # What i have learned:
 <br> -> I learned what is jenkins and how to install it <br>
