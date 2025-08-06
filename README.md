@@ -50,7 +50,7 @@
 <br>->And Finally!! by typing the address "http://localhost:5000" in Browser, I got the output that shows the sample Website<br>
 
 # What i have learned:
-<br> -> I learned what is jenkins and how to install it <br>
-<br> -> I can create freestytle jobs run them with simple programs <br>
-<br> -> I learned to create Nodes and Distribution of Jobs to the Nodes <br>
+<br> -> I got the idea of what is Docker and why it is used <br>
+<br> -> I got the idea on creating a container using Docker and running them <br>
+<br> -> I also learned to create images on Docker <br>
 
