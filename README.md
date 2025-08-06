@@ -16,10 +16,10 @@
 <br>->Java<br>
 
 # What i did?
-<br>->I installed Jenkins on my Windows PC<br>
-<br>->I Created an agent node and connected it to the Jenkins controller <br>
-<br>->And created a freestyle job and assigned it to the agent node<br>
-<br>->Lastly i run the job by the agent node<br>
+<br>-> I installed Jenkins on my Windows PC<br>
+<br>-> I Created an agent node and connected it to the Jenkins controller <br>
+<br>-> And created a freestyle job and assigned it to the agent node<br>
+<br>-> Lastly i run the job by the agent node<br>
 
 # What i have learned:
 <br> -> I learned what is jenkins and how to install it <br>
@@ -40,14 +40,14 @@
 <img width="1360" height="768" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/7e7ab7b8-7c06-4115-8e52-344205f74db7" />
 
 # What i did?
-<br>->I installed Docker on my Windows PC<br>
-<br>->Created a New Folder on Desktop and named it as "codealpha"<br>
-<br>->Created the following files:<br>
-<br>-app.py<br>
-<br>-requirements.txt<br>
-<br>-Dockerfile<br>
-<br>->Running the Docker Container using the code "docker run -p 5000:5000"<br>
-<br>->And Finally!! by typing the address "http://localhost:5000" in Browser, I got the output that shows the sample Website<br>
+<br>-> I installed Docker on my Windows PC<br>
+<br>-> Created a New Folder on Desktop and named it as "codealpha"<br>
+<br>-> Created the following files:<br>
+<br>  -app.py<br>
+<br>  -requirements.txt<br>
+<br>  -Dockerfile<br>
+<br>-> Running the Docker Container using the code "docker run -p 5000:5000"<br>
+<br>-> And Finally!! by typing the address "http://localhost:5000" in Browser, I got the output that shows the sample Website<br>
 
 # What i have learned:
 <br> -> I got the idea of what is Docker and why it is used <br>
