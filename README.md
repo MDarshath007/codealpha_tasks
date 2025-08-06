@@ -43,9 +43,9 @@
 <br>-> I installed Docker on my Windows PC<br>
 <br>-> Created a New Folder on Desktop and named it as "codealpha"<br>
 <br>-> Created the following files:<br>
-<br>  -app.py<br>
-<br>  -requirements.txt<br>
-<br>  -Dockerfile<br>
+<br>  &nbsp;-app.py<br>
+<br>  &nbsp;-requirements.txt<br>
+<br>  &nbsp;-Dockerfile<br>
 <br>-> Running the Docker Container using the code "docker run -p 5000:5000"<br>
 <br>-> And Finally!! by typing the address "http://localhost:5000" in Browser, I got the output that shows the sample Website<br>
 
